@@ -16,53 +16,15 @@
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
 
-  <div class="rectangles-container">
-  <div class="logo-rectangle">
-    <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" class="logo">
+ <div style="display: inline-flex; white-space: nowrap; height: 50px; line-height: 50px;">
+  <div style="display: inline-flex; align-items: center; justify-content: center; background: #808080; color: white; padding: 0 20px; height: 100%; border-top-left-radius: 5px; border-bottom-left-radius: 5px;">
+    <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 30px; margin-right: 10px;">
     <span>AEROHUB</span>
   </div>
-  <div class="website-rectangle">
+  <div style="display: inline-flex; align-items: center; justify-content: center; background-color: steelblue; color: white; padding: 0 20px; height: 100%; border-top-right-radius: 5px; border-bottom-right-radius: 5px;">
     WEBSITE
   </div>
 </div>
-
-<style>
-  .rectangles-container {
-    display: inline-flex; /* Keeps the container inline but prevents breaking */
-    white-space: nowrap; /* Prevents wrapping */
-    height: 14px; /* Adjust height as needed */
-    line-height: 14px; /* Vertically centers text */
-  }
-  
-  .logo-rectangle {
-    display: inline-flex;
-    align-items: center; /* Vertical centering */
-    justify-content: center; /* Horizontal centering */
-    background: #555
-    color: white;
-    padding: 0 10px;
-    height: 100%;
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-  }
-  
-  .logo {
-    height: 30px; /* Adjust logo size as needed */
-    margin-right: 10px;
-  }
-  
-  .website-rectangle {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    background-color: steelblue;
-    color: white;
-    padding: 0 10px;
-    height: 100%;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-  }
-</style>
   
 
 ---
