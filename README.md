@@ -15,9 +15,10 @@
   <a href="https://x.com/engjameso"><img alt="X" src="https://img.shields.io/badge/X-@engjameso-black?style=for-the-badge&logo=x"></a>
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://aerohubworks.com" target="_blank">
-  <img src="./assets/aerohub-logo.svg" height="28" alt="AeroHub" style="vertical-align:middle; margin-right:4px;" />
+  <a href="https://aerohubworks.com" target="_blank">
+    <img src="./assets/aerohub-logo.svg" height="14" alt="AeroHub" style="vertical-align:middle; margin-right:4px;" />Aerohub
 </a>
+  
 
 ---
 
