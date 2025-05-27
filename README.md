@@ -16,17 +16,53 @@
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
 
-  <a href="https://www.aerohubworks.com" target="_blank" style="text-decoration: none;">
-  <div style="display: inline-flex; height: 14px; line-height: 14px; font-family: sans-serif; font-size: 13px; font-weight: bold; border-radius: 1px; overflow: hidden;">
-    <div style="display: flex; align-items: center; background-color: #555; color: white; padding: 0 8px;">
-      <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 13px; width: auto; margin-right: 3px;" />
-      AEROHUB
-    </div>
-    <div style="background-color: steelblue; color: white; padding: 0 10px;">
-      WEBSITE
-    </div>
+  <div class="rectangles-container">
+  <div class="logo-rectangle">
+    <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" class="logo">
+    <span>AEROHUB</span>
   </div>
-</a>
+  <div class="website-rectangle">
+    WEBSITE
+  </div>
+</div>
+
+<style>
+  .rectangles-container {
+    display: inline-flex; /* Keeps the container inline but prevents breaking */
+    white-space: nowrap; /* Prevents wrapping */
+    height: 14px; /* Adjust height as needed */
+    line-height: 14px; /* Vertically centers text */
+  }
+  
+  .logo-rectangle {
+    display: inline-flex;
+    align-items: center; /* Vertical centering */
+    justify-content: center; /* Horizontal centering */
+    background: #555
+    color: white;
+    padding: 0 10px;
+    height: 100%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+  
+  .logo {
+    height: 30px; /* Adjust logo size as needed */
+    margin-right: 10px;
+  }
+  
+  .website-rectangle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: steelblue;
+    color: white;
+    padding: 0 10px;
+    height: 100%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+</style>
   
 
 ---
