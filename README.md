@@ -16,16 +16,15 @@
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
 
- <div style="display: inline-flex; white-space: nowrap; height: 12px; line-height: 12px;">
-  <div style="display: inline; align-items: center; justify-content: center; background: #808080; color: white; padding: 0 10px; height: 100%; ">
-    <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 10px; margin-right: 5px;">
-    <span>AEROHUB</span>
+ <div style="font-size: 0; white-space: nowrap;">
+  <div style="display: inline-block; vertical-align: top; height: 20px; line-height: 20px; background: #808080; color: white; padding: 0 20px; border-top-left-radius: 5px; border-bottom-left-radius: 5px;">
+    <img src="./assets/aerohub-logo.svg" alt="Logo" style="height: 30px; vertical-align: middle;">
+    <span style="font-size: 16px; vertical-align: middle;">AEROHUB</span>
   </div>
-  <div style="display: inline-flex; align-items: center; justify-content: center; background-color: steelblue; color: white; padding: 0 10px; height: 100%; ">
+  <div style="display: inline-block; vertical-align: top; height: 20px; line-height: 20px; background: steelblue; color: white; padding: 0 20px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; font-size: 16px;">
     WEBSITE
   </div>
 </div>
-</p>
 
 ---
 
