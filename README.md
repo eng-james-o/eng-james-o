@@ -16,7 +16,7 @@
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
 
- <div style="display: inline-flex; white-space: nowrap; height: 50px; line-height: 50px;">
+ <div style="display: inline-flex; white-space: nowrap; height: 20px; line-height: 20px;">
   <div style="display: inline-flex; align-items: center; justify-content: center; background: #808080; color: white; padding: 0 20px; height: 100%; border-top-left-radius: 5px; border-bottom-left-radius: 5px;">
     <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 30px; margin-right: 10px;">
     <span>AEROHUB</span>
@@ -25,7 +25,7 @@
     WEBSITE
   </div>
 </div>
-  
+<><>
 
 ---
 
