@@ -17,9 +17,9 @@
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
 
   <a href="https://www.aerohubworks.com" target="_blank" style="text-decoration: none;">
-  <div style="display: inline-flex; height: 28px; line-height: 28px; font-family: sans-serif; font-size: 13px; font-weight: bold; border-radius: 4px; overflow: hidden;">
+  <div style="display: inline-flex; height: 14px; line-height: 14px; font-family: sans-serif; font-size: 13px; font-weight: bold; border-radius: 1px; overflow: hidden;">
     <div style="display: flex; align-items: center; background-color: #555; color: white; padding: 0 8px;">
-      <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 16px; width: auto; margin-right: 6px;" />
+      <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 13px; width: auto; margin-right: 3px;" />
       AEROHUB
     </div>
     <div style="background-color: steelblue; color: white; padding: 0 10px;">
