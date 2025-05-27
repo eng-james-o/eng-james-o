@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/aerohub-logo.png" width="120" alt="AeroHub Logo">
+  <img src="./assets/aerohub-logo.svg" width="120" alt="AeroHub Logo">
 </p>
 
 <h1 align="center">Hi, I'm EngJamesO</h1>
@@ -29,16 +29,18 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![MATLAB](https://img.shields.io/badge/Matlab-FCC624?style=for-the-badge&logo=matlab)
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I specialize in building drone systems and AI-powered tools for aerial operations. I’m currently:
 
-- Building **AeroHub** to empower drone innovators across Africa.
+- Building **AeroHub** to develop industry drones and empower drone innovators across Africa.
+- Operating drones for agricultural and infrastructural solutions at Nigeria Flying Labs 
 - Developing **AI solutions** for agriculture and surveillance using satellite and drone data.
-- Teaching **STEM, AI, and Robotics** to youths through AFTO and AFTI.
+- Teaching **Drones, AI, and Robotics** to youths through [Nigeria Flying Labs](https://www.flyinglabs.org/nigeria) and AFTO.
 
 > I merge machine learning, aeronautics, and creative engineering to solve real-world problems.
 
@@ -46,10 +48,19 @@ I specialize in building drone systems and AI-powered tools for aerial operation
 
 ## 🚀 Featured Projects
 
-- **AirFM** – Airfoil Manipulation and Analysis Software.
-- **Payload Octacopter** – Custom UAV for heavy-lift industrial missions.
-- **Mosquito Spraying Drone** – For malaria vector control.
-- **STEM Initiatives** – AFTO, AFTI, and Tech Torch Africa.
+### **Software Projects**
+- [**AirFM**](https://github.com/eng-james-o/airfm) – Airfoil Manipulation and Analysis Software
+- [**questionnaireOCR**](https://github.com/eng-james-o/questionnaireOCR) – Software to automatically record filled paper questionnaires into spreadsheets
+
+### **Hardware Projects**
+- [**Payload Octacopter**](https://engjameso.github.io/payload-octacopter) – Heavy-lift UAV for industrial missions  
+  *[Read on Medium](#)*
+  
+- [**Mosquito Spraying Drone**](https://engjameso.github.io/mosquito-sprayer) – UAV for malaria vector control  
+  *[Read on Medium](#)*
+
+- [**Fixed-Wing Surveillance Drone**](https://engjameso.github.io/fixedwing-4g-drone) – 4G-controlled drone for long-range surveillance  
+  *[Read on Medium](#)*
 
 ---
 
@@ -69,17 +80,20 @@ I specialize in building drone systems and AI-powered tools for aerial operation
 
 ---
 
-## ✍️ Blog Posts
+## ✍️ Blog Posts (Coming soon)
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon: Behind the scenes of AirFM development](#)
+- [AirFM development: Series](#)
 - [Engineering drones for agricultural impact](#)
 - [Using YOLO to detect palm trees from satellite imagery](#)
+- [Payload Octacopter: Building Africa’s Heavy Lift Drone](#)
+- [Designing a Drone for Mosquito Control](#)
+- [Building a 4G-Controlled Surveillance Drone](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📫 Reach Out
+## 📫 How to Reach me
 
 Let’s connect and build impactful solutions:
 
@@ -91,19 +105,3 @@ Let’s connect and build impactful solutions:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eng-james-o&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-
-
-<!--
-**eng-james-o/eng-james-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
