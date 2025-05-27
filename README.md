@@ -19,7 +19,7 @@
   <a href="https://www.aerohubworks.com" target="_blank" style="text-decoration: none;">
   <div style="display: inline-flex; height: 28px; line-height: 28px; font-family: sans-serif; font-size: 13px; font-weight: bold; border-radius: 4px; overflow: hidden;">
     <div style="display: flex; align-items: center; background-color: #555; color: white; padding: 0 8px;">
-      <img src="assets/aerohub_logo.svg" alt="Aerohub Logo" style="height: 16px; width: auto; margin-right: 6px;" />
+      <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 16px; width: auto; margin-right: 6px;" />
       AEROHUB
     </div>
     <div style="background-color: steelblue; color: white; padding: 0 10px;">
