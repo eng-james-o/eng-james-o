@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="./assets/aerohub-logo.svg" width="120" alt="AeroHub Logo">
+<p align="center" display="inline-flex">
+  <img src="./assets/aerohub-logo.svg" width="60" alt="AeroHub Logo">
 </p>
 
 <h1 align="center">Hi, I'm EngJamesO</h1>
@@ -16,12 +16,12 @@
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
 
- <div style="display: inline-flex; white-space: nowrap; height: 20px; line-height: 20px;">
-  <div style="display: inline-flex; align-items: center; justify-content: center; background: #808080; color: white; padding: 0 20px; height: 100%; border-top-left-radius: 5px; border-bottom-left-radius: 5px;">
-    <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 30px; margin-right: 10px;">
+ <div style="display: inline-flex; white-space: nowrap; height: 12px; line-height: 12px;">
+  <div style="display: inline; align-items: center; justify-content: center; background: #808080; color: white; padding: 0 10px; height: 100%; ">
+    <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 10px; margin-right: 5px;">
     <span>AEROHUB</span>
   </div>
-  <div style="display: inline-flex; align-items: center; justify-content: center; background-color: steelblue; color: white; padding: 0 20px; height: 100%; border-top-right-radius: 5px; border-bottom-right-radius: 5px;">
+  <div style="display: inline-flex; align-items: center; justify-content: center; background-color: steelblue; color: white; padding: 0 10px; height: 100%; ">
     WEBSITE
   </div>
 </div>
