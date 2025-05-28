@@ -1,4 +1,3 @@
-
 <p align="center" display="inline-flex">
   <img src="./assets/aerohub-logo.svg" width="60" alt="AeroHub Logo">
 </p>
