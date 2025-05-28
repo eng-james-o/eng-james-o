@@ -22,12 +22,12 @@
 
 ## ⚙️ Tech & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PySide2](https://img.shields.io/badge/PySide2-41CD52?style=for-the-badge&logo=qt)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00BCD4?style=for-the-badge&logo=opencv)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![MATLAB](https://img.shields.io/badge/Matlab-FCC624?style=for-the-badge&logo=matlab)
 
 ---
