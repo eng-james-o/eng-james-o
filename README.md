@@ -28,7 +28,6 @@
 ![YOLO](https://img.shields.io/badge/YOLO-00BCD4?style=for-the-badge&logo=opencv)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![MATLAB](https://img.shields.io/badge/Matlab-FCC624?style=for-the-badge&logo=matlab)
 
 ---
