@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="28" role="img" aria-label="Aerohub Website Badge">
+  <rect x="0" y="0" width="108" height="28" fill="#808080"/>
+  <rect x="108" y="0" width="80" height="28" fill="steelblue"/>
+  <image x="8" y="6" width="16" height="16" href="C:\Users\james\Downloads\aerohub_logo.svg"/>
+  <text x="30" y="19" fill="white" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="bold">AEROHUB</text>
+  <text x="118" y="19" fill="white" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="bold">WEBSITE</text>
+</svg>
