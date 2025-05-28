@@ -15,20 +15,8 @@
   <a href="https://x.com/engjameso"><img alt="X" src="https://img.shields.io/badge/X-@engjameso-black?style=for-the-badge&logo=x"></a>
   <a href="https://instagram.com/engjameso"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-engjameso-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:james@aerohubworks.com"><img alt="Email" src="https://img.shields.io/badge/Email-james@aerohubworks.com-red?style=for-the-badge&logo=gmail"></a>
-
-<a href="https://aerohubworks.com" target="_blank" style="text-decoration: none; padding: 0 6px; display: inline-block;">
-  <div style="display: inline-block; height: 28px; line-height: 28px; font-family: sans-serif; font-size: 13px; font-weight: bold; white-space: nowrap; overflow: hidden;">
-    <div style="display: inline-block; vertical-align: top; background-color: #505050; color: white; padding: 0 8px; height: 100%;">
-      <img src="./assets/aerohub-logo.svg" alt="Aerohub Logo" style="height: 16px; width: auto; margin-right: 4px; vertical-align: middle;" />
-      AEROHUB
-    </div><div style="display: inline-block; vertical-align: top; background-color: steelblue; color: white; padding: 0 10px; height: 100%;">
-      WEBSITE
-    </div>
-  </div>
-</a>
-
+  <a href="https://aerohubworks.com"><img alt="Aerohub badge" src="./assets/aerohub-badge.svg"></a>
 </p>
-
 
 ---
 
