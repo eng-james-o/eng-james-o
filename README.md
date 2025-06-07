@@ -90,7 +90,11 @@ I specialize in building drone systems and AI-powered tools for aerial operation
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<!-- --> ## 🎥 GitHub Skyline (3D Contribution Graph)
 
+<!-- --> [![GitHub Skyline](https://github.com/eng-james-o/eng-james-o/blob/main/assets/james-skyline.stl)](https://skyline.github.com/eng-james-o) 
+
+<!-- --> ---
 ## 📫 How to Reach me
 
 Let’s connect and build impactful solutions:
