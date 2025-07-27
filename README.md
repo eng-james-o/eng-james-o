@@ -45,8 +45,9 @@ I specialize in building drone systems and AI-powered tools for aerial operation
 - Operating drones for agricultural and infrastructural solutions at [Nigeria Flying Labs](https://www.flyinglabs.org/nigeria)
 - Developing **AI solutions** for agriculture and surveillance using satellite and drone data at [Nigeria Flying Labs](https://www.flyinglabs.org/nigeria)
 - Teaching **Drones, AI, and Robotics** to youths through [Nigeria Flying Labs](https://www.flyinglabs.org/nigeria) and **AFTO**.
+- Contributing to open-source projects in mechanical engineering and geospatial data fields.
 
-> I merge machine learning, aeronautics, and creative engineering to solve real-world problems.
+> I merge machine learning, geospatial data analysis, aeronautics, and creative engineering to solve real-world problems.
 
 ---
 
@@ -60,13 +61,13 @@ I specialize in building drone systems and AI-powered tools for aerial operation
 ### **Hardware Projects**
 
 - [**Payload Octacopter**](https://engjameso.github.io/payload-octacopter) – Heavy-lift UAV for industrial missions  
-  *[Read on Medium](#)*
+  *[Read on my Blog](#)*
   
 - [**Mosquito Spraying Drone**](https://engjameso.github.io/mosquito-sprayer) – UAV for malaria vector control  
-  *[Read on Medium](#)*
+  *[Read on my Blog](#)*
 
-- [**Fixed-Wing Surveillance Drone**](https://engjameso.github.io/fixedwing-4g-drone) – 4G-controlled drone for long-range surveillance  
-  *[Read on Medium](#)*
+- **Fixed-Wing Surveillance Drone** – 4G-controlled drone for long-range surveillance  
+  *[Read on my Blog](https://eng-james-o.github.io/projects/4g-controlled-surveillance-drone.html)*
 
 ---
 
@@ -86,15 +87,18 @@ I specialize in building drone systems and AI-powered tools for aerial operation
 
 ---
 
-## ✍️ Blog Posts (Coming soon)
+## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AirFM development: Series](#)
+- [AirFM development: Series](https://eng-james-o.github.io/2025/06/09/airfm-1.html)
+- [Building a 4G-Controlled Surveillance Drone](https://eng-james-o.github.io/projects/4g-controlled-surveillance-drone.html)
+
+*(Coming soon)*
+
 - [Engineering drones for agricultural impact](#)
 - [Using YOLO to detect palm trees from satellite imagery](#)
 - [Payload Octacopter: Building Africa’s Heavy Lift Drone](#)
 - [Designing a Drone for Mosquito Control](#)
-- [Building a 4G-Controlled Surveillance Drone](#)
 <!-- BLOG-POST-LIST:END -->
 
 ---
